@@ -1,17 +1,14 @@
-# این یک پروژه تستی برای فرادرس است
+# This is a test project
 
-# توضیحات
+# Description 
 
-این پروژه یک پروژه تستی است که فقط شامل یک صفحه html است با یک متن ساده
+This is a test project that includes only one HTML page with a simple text.
 
-# تکنولوژی ها
 
-توی این پروژه از چه تکنولوژی هایی استفاده شده
 
-- Html
-- Css
-- Git
+# Technologies
+Technologies used in this project:
 
-# پیش نمایش
-
-مشاهده دمو : <a href="https://faradars-github-test.netlify.app">دمو</a>
+Html
+Css
+Git
